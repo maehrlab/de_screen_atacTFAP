@@ -1,6 +1,3 @@
-##
-## atacTFAP was conceived and implemented by Michael Ziller.
-##
 options(stringsAsFactors=F)
 options(max.print=1000)
 library(spls)
